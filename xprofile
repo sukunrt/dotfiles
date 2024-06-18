@@ -1,3 +1,5 @@
+picom -b --config /home/sukun/.config/picom/picom.conf
+
 setxkbmap -option ctrl:swapcaps
 
 polybar -c ~/.config/polybar/config.ini &
